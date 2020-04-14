@@ -1,2 +1,2 @@
 # financeiro-api
-Projeto de API utilizando Spring Boot destinado ao financeiro u
+Projeto de API utilizando Spring Boot destinado a departamentos financeiros
